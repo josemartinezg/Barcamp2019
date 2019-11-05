@@ -15,31 +15,33 @@ function charlas() {
             var sala3 = document.getElementById("tab3");
             var sala4 = document.getElementById("tab4");
 
-            var json = speakersJson.charlas;
-            for (i in json) {
+            for (i in speakersJson.charlas) {
 
                 if (i < 6) {
 
-                    sala1.innerHTML += createCharlasCard(json[i]);
+                    sala1.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
                 } else if (i < 12) {
-                    sala2.innerHTML += createCharlasCard(json[i]);
+                    sala2.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
                 } else if (i < 18) {
-                    sala3.innerHTML += createCharlasCard(json[i]);
+                    sala3.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
                 } else {
-                    sala4.innerHTML += createCharlasCard(json[i]);
+                    sala4.innerHTML += createCharlasCard(speakersJson.charlas[i]);
 
                 }
 
             }
+
+            eventos();
         });
 
 }
 
 function createCharlasCard(charlistaJson) {
 
+    var desc = charlistaJson.description;
 
     var speakerHtml =
         "<li> " +
@@ -51,11 +53,38 @@ function createCharlasCard(charlistaJson) {
         "<p>" + charlistaJson.abstract + "</p>" +
         "<a class='bg-primary see-more'>Ver más</a>" +
         "<div class='body-description'>" +
-        "<p>" + charlistaJson.description + "</p>" +
-        +"</div>" +
+        "<p>" + desc + "</p> </div>" +
         "</div>" +
         "</div>" +
         "</li>";
 
     return speakerHtml;
+}
+
+
+function eventos() {
+
+    $("a").on('click', function (event) {
+        if (this.hash !== "") {
+            event.preventDefault();
+            var hash = this.hash;
+            $('html, body').animate({
+                scrollTop: $(hash).offset().top
+            }, 800, function () {
+                window.location.hash = hash;
+            });
+        }
+
+    });
+
+    $(".tab a").click(function () {
+        let button = $(this);
+        button.next().slideToggle('slow', function () {
+            if ($(this).css("display") === "block") {
+                button.html("Ver menos");
+            } else {
+                button.html("Ver más");
+            }
+        });
+    });
 }

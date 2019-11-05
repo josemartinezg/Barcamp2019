@@ -24,7 +24,7 @@
     {
       "nombre": "Rafael Miguel Dorville Collado",
       "charla": "Análisis de Redes Sociales",
-      "abstract": "Hoy en día vivimos en un mundo en que los individuos, las instituciones y los grupos están \\ninterconectados. Los patrones de conexión entre elementos forman un \\n“espacio social” que se aprecia en múltiples contextos,  pudiendo estudiar la influencia de un individuo dentro de su circulo.",
+      "abstract": "Hoy en día vivimos en un mundo en que los individuos, las instituciones y los grupos están interconectados. Los patrones de conexión entre elementos forman un “espacio social” que se aprecia en múltiples contextos,  pudiendo estudiar la influencia de un individuo dentro de su circulo.",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "Beginner",
       "tags": [
@@ -122,7 +122,7 @@
     },
     {
       "nombre": "Raul Montero",
-      "abstract": "No todo es 200 OK. Debemos preparar nuestras apps para que sean tolerantes a fallos de red, pudiendo funcionar a pesar de estos.\n\nTrabajar offline, registrar errores y deshabitar funcionalidades son algunas estrategias que estaremos viendo para evitar a toda costa los fallos y perdida de información",
+      "abstract": "No todo es 200 OK. Debemos preparar nuestras apps para que sean tolerantes a fallos de red, pudiendo funcionar a pesar de estos.Trabajar offline, registrar errores y deshabitar funcionalidades son algunas estrategias que estaremos viendo para evitar a toda costa los fallos y perdida de información",
       "charla": "Creando apps tolerantes a las fallas de conexión",
       "formato": "Workshop (> 60 minutes)",
       "audienceLevel": "Intermediate",
@@ -396,7 +396,7 @@
         "Netcore",
         "tech"
       ],
-      "description": "Esta charla está basada en mostrar cuales son las mejores prácticas para tomar en cuenta para lograr tener despliegues de aplicativos sin que los usuarios no se percaten, como poder utilizar opciones de Azure DevOps, .Net Core y Azure DevOps Pipelines para mostrar estrategias que pueden ayudar a lograr el objetivo, utilizando ejemplos de aplicativos reales en las cuales he trabajado en los ultimos años como Senior DevOps engineer",
+      "description": "Esta charla está basada en mostrar cuales son las mejores prácticas para tomar en cuenta para lograr tener despliegues de aplicativos sin que los usuarios no se percaten, como poder utilizar opciones de Azure DevOps, .Net Core y Azure DevOps Pipelines para mostrar estrategias que pueden ayudar a lograr el objetivo, utilizando ejemplos de aplicativos reales en las cuales he trabajado en los ultimos años como Senior DevOps engineer.",
       "socials": [
         {
           "icon": "fas fa-link",

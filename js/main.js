@@ -7,28 +7,7 @@ $(document).ready(function () {
     });
 
 
-    $("a").on('click', function (event) {
-        if (this.hash !== "") {
-            event.preventDefault();
-            var hash = this.hash;
-            $('html, body').animate({
-                scrollTop: $(hash).offset().top
-            }, 800, function () {
-                window.location.hash = hash;
-            });
-        }
-    });
-
-    $(".tab a").click(function () {
-        let button = $(this);
-        button.next().slideToggle('slow', function(){
-            if($(this).css("display")  === "block"){
-                button.html("Ver menos");
-            }else  {
-                button.html("Ver más");
-            }  
-        });
-    });
+    
 });
 
 
