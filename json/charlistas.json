@@ -1,0 +1,398 @@
+{
+  "charlistas": [
+    {
+      "nombre": "Ever Miguel Curiel",
+      "Pais": "Dominican Republic",
+      "charla": "A friendly introduction to QA",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Software testing",
+        "Quality Assurance",
+        "Tester",
+        "Quality Software"
+      ],
+      "description": "What is quality? Where does quality begins? and better yet, why quality? even if these questions sound really basic and simple, the wrong answer to them have created long lasting negative impact over software projects for a long time.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://do.linkedin.com/in/evercuriel"
+        }
+      ]
+    },
+    {
+      "nombre": "Rafael Miguel Dorville Collado",
+      "charla": "Análisis de Redes Sociales",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "Machine Learning",
+        ",Computing",
+        "Big Data"
+      ],
+      "description": "El análisis de redes sociales es la aplicación de la teoría de redes al modelado y análisis de sistemas sociales, combinando distintas herramientas para analizar las relaciones sociales, pero también haciendo uso de la teoría para así explicar las estructuras que surgen de las interacciones sociales.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/rm_dorville"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/rmdorville/"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Contreras",
+      "Pais": "Dominican Republic",
+      "charla": "Better state handling for React applications using XState",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Javascript",
+        "React"
+      ],
+      "description": "Ser Frontend Developer en estos días tiene sus desafíos. Tenemos que considerar muchas variables a la hora de desarrollar una web app, algunas controladas otras no, como por ejemplo: accesibilidad, rendimiento, conexión a Internet, browsers, sistemas operativos, etc.  ",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/devrasec"
+        }
+      ]
+    },
+    {
+      "nombre": "Yhorby Matias",
+      "charla": "Build inteligents Apps",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "C#",
+        "Azure",
+        "Xamarin",
+        "CosmosDB",
+        "API",
+        "IA",
+        "DevOps"
+      ],
+      "description": "Use your existing skills and the tools Take advantage of a comprehensive set of services, infrastructure, and tools to build AI-powered experiences. Build bots that naturally interact with users and built-in advanced analytics tools to make faster predictions.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://www.ymatias.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/yhorbymatias"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Miguel Burdier",
+      "Pais": "Dominican Republic, Bonao",
+      "charla": "Cásate con Flask y Python.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "Python",
+        "Flask"
+      ],
+      "description": "Cásate con Flask y Python. ¿Qué es Flask? Flask es un microframework web ligero creado con el lenguaje de programación Python, esta diseñado para iniciar un proyecto rápido y fácil, tiene la facilidad de pasar de un proyecto simple a uno complejo.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://burdierblog.netlify.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/BurdierLuis"
+        }
+      ]
+    },
+    {
+      "nombre": "Raul Montero",
+      "charla": "Creando apps tolerantes a las fallas de conexión",
+      "formato": "Workshop (> 60 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "csharp",
+        "xamarin",
+        "mobile"
+      ],
+      "description": "No importa que tipo de aplicación hagas, algo es seguro, tienes que conectarte algún servicio para obtener la información con la que vas a trabajar. Sin embargo, nada garantiza que estos servicios estén disponibles 100% del tiempo, entonces, ¿Cómo reaccionamos cuando no podemos contar con ellos?",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://raulmonteroc.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/raulmonteroc"
+        }
+      ]
+    },
+    {
+      "nombre": "Jonathan Garrido",
+      "charla": "Cripto 101. Lo usamos diario pero ¿cómo?",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Open source",
+        "Computing",
+        "operating system",
+        "criptografia"
+      ],
+      "description": "En esta charla básica sobre criptografía, los asistentes estarán expuestos a los siguientes puntos: 1. Descripción del concepto de criptografía. 2. El uso de la criptografía a través  del tiempo. 3. Por que y para es importante hoy en día. 4. Definición del concepto de encriptación simétrica y asimétrica. 5. Herramientas y recursos actuales para establecer medios de transmisión seguros.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/illexsdq"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Matos",
+      "Pais": "Dominican Republic",
+      "charla": "Introduction to the Blockchain world",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Infrastructure",
+        "Arquitectura",
+        "Estructuras",
+        "Security",
+        "Seguridad",
+        "Devops",
+        "Colombia",
+        "Inteligencia Artificial",
+        "Architecture",
+        "Infrastructura",
+        "blockchain",
+        "bitcoin",
+        "Open source"
+      ],
+      "description": "With Blockchain, we can decentralize transactions by removing the middle-man and creating a secure record shared by hundreds of devices, even millions. Azure provides us a Blockchain Development Kit that simplifies development using blockchain for web and mobile applications. This allows us to integrate blockchain into our applications without the need for a blockchain team.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://luismts.com/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/luismatosluna"
+        }
+      ]
+    },
+    {
+      "nombre": "Aluis Marte",
+      "Pais": "Dominican Republic",
+      "charla": "Java, Spring Boot y Vaadin 14",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Java",
+        "Spring Boot",
+        "Vaadin",
+        "Vaadin14",
+        "JPA"
+      ],
+      "description": "Con la llegada de más Frameworks orientados a componentes, el desarrollo en java para aplicaciones mas modernas es más intenso y esto a hecho evolucionar a Vaadin a un punto donde el diseñador, el desarrollador BackEnd y el hecho de usar componentes web ya es una realidad en java con una integración muy sencilla usando Vaadin 14.",
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/aluismarte"
+        }
+      ]
+    },
+    {
+      "nombre": "Shailyn Ortiz",
+      "charla": "Jenkins-X: Kubernetes GitOps!",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Beginner",
+      "tags": [
+        "devops",
+        "deployments",
+        "Open source",
+        "Cloud computing",
+        "Containers"
+      ],
+      "description": "GitOps is a way to do Kubernetes cluster management and application delivery. It works by using Git as a single source of truth for declarative infrastructure and applications. With Git at the center of your delivery pipelines, developers can make pull requests to accelerate and simplify application deployments and operations tasks to Kubernetes. Let me show you how to achieve this by leveraging Jenkins-X.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ROOT_OR_DEATH"
+        }
+      ]
+    },
+    {
+      "nombre": "Juan Thomas Angel Montilla, Jose Manuel (Co-Presenter)",
+      "charla": "Loopback 4: Tu REST API en minutos",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "JavaScript",
+        "LoopbackJS",
+        "Framework",
+        "Express"
+      ],
+      "description": "¿Eres uno de cientos de miles de desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo para tus REST APIs? Descuida, que en esta desconferencia aprenderás cómo el poderoso framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos, haciéndose cargo de los requerimientos técnicos fundamentales, y dejándote a ti más tiempo para definir los requerimientos funcionales y las reglas de negocio. LoopBack 4 es un framework Node.js basado en Express, de fuente abierta, y altamente extensible, basado en Express, desarrollado por StrongLoop de IBM, que te permite crear rápidamente APIs y microservicios, compuesto de sistemas de backend, como bases de datos y servicios SOAP o REST. Está orientado para desarrolladores de API’s, facilita el desarrollo en equipo, y puede ser utilizado para construir frameworks, plataformas, librerías, y ser integrado con bases de datos, servicios web y otras plataformas por vía de conectores. Loopback permite conectarse a varias fuentes de datos, y relacionarlas entre sí, permitiendo mantener la integridad de los datos, y de obtener todos los datos relevantes con cada consulta, sin importar las distintas fuentes consultadas. También posee un explorador de los distintos servicios, que permiten hacer consultas en tiempo real.",
+      "socials": [
+      ]
+    },
+    {
+      "nombre": "Sachin Ohri",
+      "charla": "Managing Governance, Compliance and Standards for Enterprise using Azure Policies",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Cloud",
+        "Microsoft Azure",
+        "Security",
+        "Compliance",
+        "Automation",
+        "Infrastructure as a code",
+        "Azure",
+        "Governance"
+      ],
+      "description": "Azure Policies help us to be compliant with the corporate standards and service level agreements. Policies help us to setup rules, restrictions, pre and post executions that allow us to keep all our Azure resources compliant with Enterprise security and standards. Polices are easily integrated with your existing ITSM tools like Service Now, JIRA, Azure DevOps * Do you want to make sure all your resources have some standard tags which help you to manage your cost and budgets? * Do you want to make sure that no one opens a port for Bitcoin or Ethereum or no VM should have a public IP? * Do you have some practices which you want to enforce as preventive and some which should be detective or even want to auto-remediate if there is a violation? * Do you want to have separate standards for different environments like Sandbox, Prod?",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/ohri_sachin"
+        }
+      ]
+    },
+    {
+      "nombre": "Candy Marte García",
+      "charla": "Sesgo de supervivencia y cómo superarlo",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "#CrecimientoProfesional",
+        "#Tecnología",
+        "#HabilidadesBlandas",
+        "#AnalisisdeNegocio"
+      ],
+      "description": "Cuando tiene algún inconveniente que debe solucionar, ¿se concentra solamente en hacer mejor lo que ha quedado o analiza lo que no se pudo lograr? La mayoría de personas eligen solo lo primero, este fenómeno se llama sesgo de supervivencia, es cuando miramos las cosas que sobrevivieron cuando deberíamos centrarnos en las que no. En esta charla descubriremos cómo identificarlo y cómo superarlo para lograr un cambio tangible en nuestro crecimiento profesional.",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/candymarte/"
+        }
+      ]
+    },
+    {
+      "nombre": "Valmis Di Carlo Hidalgo",
+      "charla": "Tecnologías y Prácticas de Ciberseguridad para Empresas",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "Open source",
+        "Cloud computing",
+        "Cybersecurity"
+      ],
+      "description": "En esta participación estaremos mostrando herramientas tales como: Firewalls, VPN, IPS, Log Server, SIEM; entre otras, todas con soluciones basadas en Software Libre y Open Source.",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "http://www.dicatech.net/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/valmis"
+        }
+      ]
+    },
+    {
+      "nombre": "Mitra Mejia",
+      "charla": "Top Developer Habits",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "habits",
+        "improvement",
+        "developer",
+        "programming"
+      ],
+      "description": "No me enfocaré en las cosas técnicas. Mas bien, hablaremos sobre algunos hábitos que son claves para convertirse en un mejor desarrollador. Si comparamos los currículums de dos desarrolladores de software. Ambos candidatos poseen experiencias y habilidades similares. Sin embargo, hay ciertas cosas que podrían indicar que el uno tendrá más éxito en su carrera que otro. ¿Cuales son estas características? Espero contestar esta y mas preguntas en esta edición de Barcamp 2019",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/mitramejia"
+        }
+      ]
+    },
+    {
+      "nombre": "Ramiro Pulgar",
+      "Pais": "Ecuador",
+      "charla": "Tu CSIRT en un chasquido con Open Source",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "tags": [
+        "opensource",
+        "threathunting",
+        "csirt",
+        "cybersecurity",
+        "purpleteam",
+        "Open source"
+      ],
+      "description": "Esta presentación propone la implementación operativa de herramientas open source en cada una de las fases del NIST Cybersecurity Framework para que no sea complejo ni costoso a los equipos CSIRT y SOC de Compañías de todos los tamaños que tienen como estrategia la Implementación de Ciberseguridad. Esta implementación invita a llegar a un nivel de madurez adecuado para iniciar el Threat Hunting.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/milovisho"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/ramiropulgar/"
+        }
+      ]
+    },
+    {
+      "nombre": "Gregory Pilar",
+      "charla": "Zero-Downtime Web Apps for ASP .NET Core",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [
+        "Azure",
+        "DevOps",
+        "Netcore",
+        "tech"
+      ],
+      "description": "Esta charla está basada en mostrar cuales son las mejores prácticas para tomar en cuenta para lograr tener despliegues de aplicativos sin que los usuarios no se percaten, como poder utilizar opciones de Azure DevOps, .Net Core y Azure DevOps Pipelines para mostrar estrategias que pueden ayudar a lograr el objetivo, utilizando ejemplos de aplicativos reales en las cuales he trabajado en los ultimos años como Senior DevOps engineer",
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "https://underframework.net/"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/gregorypilar"
+        }
+      ]
+    }
+  ]
+}
