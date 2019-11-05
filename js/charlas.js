@@ -40,7 +40,6 @@ function charlas() {
 
 function createCharlasCard(charlistaJson) {
 
-    console.log(charlistaJson.description);
 
     var speakerHtml =
         "<li> " +
