@@ -493,21 +493,6 @@
       ]
     },
     {
-      "nombre": "Jonathan Garrido",
-      "bio": "Ingeniero de sistemas de profesión y UNIX / Linux sysadmin por pasión. Actualmente mas de 15 años administrando servidores y almacenamiento en los sectores de telecomunicación, banca y gobierno.\r\nFiel creyente en el uso de la investigación, usando herramientas open source, para resolver problemas actuales de la sociedad.",
-      "formato": "Talk (~30-45 minutes",
-      "charla": "Cripto 101. Lo usamos diario pero ¿cómo?",
-      "abstract": "En un mundo con tantas transacciones por minuto, es sumamente importante asegurar que los elementos involucrados en una negociación sean capaces de comunicarse efectivamente. Con el avance de la tecnología, es posible crear medios de transmisión lo suficientemente seguros para esto.",
-      "description": "En esta charla básica sobre criptografía, los asistentes estarán expuestos a los siguientes puntos:\r\n1. Descripción del concepto de criptografía.\r\n2. El uso de la criptografía a través  del tiempo.\r\n3. Por que y para es importante hoy en día.\r\n4. Definición del concepto de encriptación simétrica y asimétrica.\r\n5. Herramientas y recursos actuales para establecer medios de transmisión seguros.",
-      "audienceLevel": "All",
-      "tags": [
-        "Open source",
-        "Computing",
-        "operating system",
-        "criptografia."
-      ]
-    },
-    {
       "nombre": "Freddy Pena",
       "charla": "Arquitectura reactiva (Vert.x): Diseñando API RESTful",
       "abstract": "En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
