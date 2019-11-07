@@ -239,33 +239,7 @@
         "Express"
       ],
       "description": "¿Eres uno de cientos de miles de desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo para tus REST APIs? Descuida, que en esta desconferencia aprenderás cómo el poderoso framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos, haciéndose cargo de los requerimientos técnicos fundamentales, y dejándote a ti más tiempo para definir los requerimientos funcionales y las reglas de negocio. LoopBack 4 es un framework Node.js basado en Express, de fuente abierta, y altamente extensible, basado en Express, desarrollado por StrongLoop de IBM, que te permite crear rápidamente APIs y microservicios, compuesto de sistemas de backend, como bases de datos y servicios SOAP o REST. Está orientado para desarrolladores de API’s, facilita el desarrollo en equipo, y puede ser utilizado para construir frameworks, plataformas, librerías, y ser integrado con bases de datos, servicios web y otras plataformas por vía de conectores. Loopback permite conectarse a varias fuentes de datos, y relacionarlas entre sí, permitiendo mantener la integridad de los datos, y de obtener todos los datos relevantes con cada consulta, sin importar las distintas fuentes consultadas. También posee un explorador de los distintos servicios, que permiten hacer consultas en tiempo real.",
-      "socials": [
-      ]
-    },
-    {
-      "nombre": "Sachin Ohri",
-      "abstract": "Do you have multiple teams in your Enterprise with large number of subscriptions? Do you want to standardize and enforce how resources are configured, how regulatory compliance are managed, cost control, security and design consistency? If so, then Azure policies is your answer.",
-      "charla": "Managing Governance, Compliance and Standards for Enterprise using Azure Policies",
-      "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "All",
-      "tags": [
-        "Cloud",
-        "Microsoft Azure",
-        "Security",
-        "Compliance",
-        "Automation",
-        "Infrastructure as a code",
-        "Azure",
-        "Governance"
-      ],
-      "description": "Azure Policies help us to be compliant with the corporate standards and service level agreements. Policies help us to setup rules, restrictions, pre and post executions that allow us to keep all our Azure resources compliant with Enterprise security and standards. Polices are easily integrated with your existing ITSM tools like Service Now, JIRA, Azure DevOps * Do you want to make sure all your resources have some standard tags which help you to manage your cost and budgets? * Do you want to make sure that no one opens a port for Bitcoin or Ethereum or no VM should have a public IP? * Do you have some practices which you want to enforce as preventive and some which should be detective or even want to auto-remediate if there is a violation? * Do you want to have separate standards for different environments like Sandbox, Prod?",
-      "socials": [
-        {
-          "icon": "fab fa-twitter",
-          "name": "Twitter",
-          "link": "http://twitter.com/ohri_sachin"
-        }
-      ]
+      "socials": []
     },
     {
       "nombre": "Candy Marte García",
@@ -403,7 +377,6 @@
         "React",
         "Netlify",
         "Open source"
-
       ],
       "description": "**Problema**\r\n\r\nIndependientemente de cuán bien optimicemos todo o cuán bueno sea el trabajo que hacemos con el rendimiento percibido, los sitios web dinámicos son lentos... Esto se debe a la cantidad de pasos que deben realizarse para mostrar el contenido solicitado cada vez que alguien visita una página web.\r\n\r\nSitios webs cargados abrumadoramente de complementos, scripts y otras tantas cosas enviadas a producción. A esto se le suma las preocupaciones de seguridad, el alojamiento costoso y el panorama cambiante de los diferentes idiomas que un desarrollador debe aprender a construir un sitio web.\r\n\r\n**Solución**\r\n\r\nEntonces, repensemos nuestro enfoque para crear sitios web dinámicos y comencemos desde cero.\r\n\r\nVeámoslo de una manera simple, JAMstack se refiere a una nueva forma o método de creación de sitios web y aplicaciones que ofrece un mejor rendimiento, mayor seguridad, menor costo de escala y una mejor experiencia de desarrollador.\r\n\r\n**Takeways**\r\n\r\n  - JAMstacks overview\r\n  - JAMstacks vs la manera tradicional\r\n  - Como sacar provecho a las Serverless APIs en JAM\r\n  - Static Site Generators\r\n  - Ventajas para End-user and Developers\r\n\r\n",
       "socials": [
@@ -429,7 +402,6 @@
         "Flutter",
         "Cross-platform",
         "Mobile"
-
       ],
       "description": " - What’s flutter?\r\n - About Dart\r\n - Initial Setup\r\n - Project Structure\r\n - About Widgets\r\n - About Stateless Widgets\r\n - About Hot Reload\r\n - About GestureDetector\r\n - About Stateful Widgets\r\n - Demo and Samples\r\n",
       "socials": [
@@ -467,14 +439,32 @@
       ]
     },
     {
-      "nombre": "Juan José Polanco Arias",
-      "charla": "GDPR (General Data Protection Regulation).",
-      "abstract": "GDPR es una regulación de privacidad datos de la Union Europea que entro en vigencia el 25 de Mayo de 2018, cuyo objetivo darle poder al usuario de decidir si alguna aplicacion (web, movil, etc.) pueden recolectar sus datos y que tambien dicta el manejo adecuado que las companias tecnológicas que recolectan esos datos deben darle a los mismos.",
-      "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "All",
-      "description": ""
+      "nombre": "Eudris Cabrera Rodriguez",
+      "charla": "Seguridad para aplicaciones Web Java con JSON Web Tokens (JWT)",
+      "bio": "Ingeniero Telemático (Egresado de PUCMM). Actualmente Desarrollador Informático en el Ministerio de Hacienda de la República Dominicana.  Entusiasta de la tecnología y el software libre, desarrollador Java, instructor ocasional (Java / Linux), aficionado del béisbol/sóftbol y los bailes latinos.\r\n\r\nGanador de la beca Linux Training Scholarship 2014 en la categoría Developer Do-Gooder. Miembro asociado del JCP (Java Community Process).  Co-fundador / Organizador del grupo de usuarios Java (Java User Group )  \"Java Dominicano\"\r\n\r\nEn el tiempo libre, escribe artículos, realiza charlas y ayuda en la revisión de documentación técnica en el mundo Java y el código abierto.\r\n",
+      "audienceLevel": "Intermediate",
+      "formato": "Talk (~30-45 minutes",
+      "abstract": "En esta sesión vamos a explorar como podemos utilizar JSON Web Tokens en aplicaciones web y servicios REST Java.  Así como también,  las principales soluciones para autenticación y autorización que ofrecen soporte para JWT.",
+      "description": "JSON Web Token, comúnmente conocidos como JWT, es un estándar abierto (RFC 7519) que define un modo compacto y autónomo para transmitir de forma segura la información entre las partes como un objeto JSON. JWT define un formato estandar para autenticación y autorización . Su utilización ha ganado popularidad en los últimos años porque permite que los servidores acepten solicitudes simplemente validando el contenido de estos JWTS.\r\n\r\nEs decir, las aplicaciones que usan JWTS ya no tienen que contener cookies u otros datos de sesión sobre sus usuarios. Esta característica facilita la escalabilidad mientras mantiene las aplicaciones seguras.\r\n\r\nEn esta sesión vamos a explorar como podemos utilizar JSON Web Tokens en aplicaciones web y servicios REST Java. También estudiaremos las principales soluciones para autenticación y autorización que ofrecen soporte para JWT.\r\n",
+      "tags": [
+        "Security",
+        "Java",
+        "JWT",
+        "Cloud computing"
+      ],
+      "socials": [
+        {
+          "icon": "fas fa-link",
+          "name": "Link",
+          "link": "http://eudriscabrera.com"
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/eudriscabrera"
+        }
+      ]
     },
-
     {
       "nombre": "Max Almonte",
       "charla": "Mejoras prácticas en el desarrollo de APIs REST",
@@ -487,7 +477,6 @@
         "API",
         "Web Development",
         "Desarrollo Web"
-
       ],
       "description": "En esta charla repasaremos los principios del desarrollo de APIs REST expuestos por Phil Sturgeon en el famoso libro [Build APIs You Won't Hate](https://apisyouwonthate.com/books/build-apis-you-wont-hate), así como muchos temas más.\r\n\r\nVerás desde cómo nombrar tus endpoints hasta cómo documentar y añadir pruebas unitarias, aprenderás la manera correcta de usar los verbos y códigos HTTP, entre otras cosas.",
       "socials": [
@@ -504,28 +493,18 @@
       ]
     },
     {
-      "nombre": "",
-      "charla": "",
-      "abstract": "",
-      "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "",
+      "nombre": "Jonathan Garrido",
+      "bio": "Ingeniero de sistemas de profesión y UNIX / Linux sysadmin por pasión. Actualmente mas de 15 años administrando servidores y almacenamiento en los sectores de telecomunicación, banca y gobierno.\r\nFiel creyente en el uso de la investigación, usando herramientas open source, para resolver problemas actuales de la sociedad.",
+      "formato": "Talk (~30-45 minutes",
+      "charla": "Cripto 101. Lo usamos diario pero ¿cómo?",
+      "abstract": "En un mundo con tantas transacciones por minuto, es sumamente importante asegurar que los elementos involucrados en una negociación sean capaces de comunicarse efectivamente. Con el avance de la tecnología, es posible crear medios de transmisión lo suficientemente seguros para esto.",
+      "description": "En esta charla básica sobre criptografía, los asistentes estarán expuestos a los siguientes puntos:\r\n1. Descripción del concepto de criptografía.\r\n2. El uso de la criptografía a través  del tiempo.\r\n3. Por que y para es importante hoy en día.\r\n4. Definición del concepto de encriptación simétrica y asimétrica.\r\n5. Herramientas y recursos actuales para establecer medios de transmisión seguros.",
+      "audienceLevel": "All",
       "tags": [
-        "Azure",
-        "DevOps"
-
-      ],
-      "description": "",
-      "socials": [
-        {
-          "icon": "fas fa-link",
-          "name": "Link",
-          "link": ""
-        },
-        {
-          "icon": "fab fa-twitter",
-          "name": "Twitter",
-          "link": "http://twitter.com/"
-        }
+        "Open source",
+        "Computing",
+        "operating system",
+        "criptografia."
       ]
     },
     {
@@ -537,9 +516,8 @@
       "tags": [
         "NLP",
         "Python"
-
       ],
-      "description": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) se refiere a la manipulación del lenguaje mediante el uso de computadoras y el objetivo es encontrar mecanismos eficaces para la comunicación entre los humanos y las maquinas mediante el uso del lenguaje natural. El NLP es una confluencia de distintas disciplinas tales como las Ciencias de la Computación, la lingüística, la estadística, entre otras. Con la explosión que ha sucedido en los últimos años en la generación de datos textuales que son almacenados en medios electrónicos gracias a las Redes Sociales y a otras plataformas, esta área se ha convertido en una de mucho interés. Tareas como la traducción automática de textos, la clasificación de textos con distintos fines (filtrado de spam, categorización de documentos por tópicos, análisis de sentimientos, entre otros ), la recuperación de información, el entendimiento y generación de lenguaje natural (para el diseño de Bots, por ejemplo, la extracción de información y los correctores automáticos son solo algunos ejemplos de las aplicaciones que tiene este campo. Python, por su naturaleza, es un lenguaje poderosísimo para trabajar con texto escrito. En esta charla proponemos dar un vistazo a las principales tareas de NLP y específicamente mostrar de manera práctica y mediante la librería Pattern de Python como estas tareas pueden acometerse tanto para textos escritos en el idioma inglés como en el español, con los distintos recursos que esta ofrece.",
+      "description": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) se refiere a la manipulación del lenguaje mediante el uso de computadoras y el objetivo es encontrar mecanismos eficaces para la comunicación entre los humanos y las maquinas mediante el uso del lenguaje natural. El NLP es una confluencia de distintas disciplinas tales como las Ciencias de la Computación, la lingüística, la estadística, entre otras. Con la explosión que ha sucedido en los últimos años en la generación de datos textuales que son almacenados en medios electrónicos gracias a las Redes Sociales y a otras plataformas, esta área se ha convertido en una de mucho interés. Tareas como la traducción automática de textos, la clasificación de textos con distintos fines (filtrado de spam, categorización de documentos por tópicos, análisis de sentimientos, entre otros ), la recuperación de información, el entendimiento y generación de lenguaje natural (para el diseño de Bots, por ejemplo, la extracción de información y los correctores automáticos son solo algunos ejemplos de las aplicaciones que tiene este campo. Python, por su naturaleza, es un lenguaje poderosísimo para trabajar con texto escrito. En esta charla proponemos dar un vistazo a las principales tareas de NLP y específicamente mostrar de manera práctica y mediante la librería Pattern de Python como estas tareas pueden acometerse tanto para textos escritos en el idioma inglés como en el español, con los distintos recursos que esta ofrece."
     }
   ]
 }
