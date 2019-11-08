@@ -550,7 +550,7 @@
       "nombre": "Carlos Camacho",
       "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
       "charla": "",
-      "abstract": "Quarkus en conjunto de GraalVM han venido a darle vida nuevamente al mundo Java. En esta charla vamos explorar que nos ofrece Quarkus con todas sus extensiones, ya que este es un framework basado en MicroProfile y muchas librerías pioneras en el mundo Java como Hibernate, Apache Camel, RestEasy, Vertx, etc.",
+      "abstract": "",
       "description": "",
       "formato": "Talk (~30-45 minutes)",
       "audienceLevel": "All"
