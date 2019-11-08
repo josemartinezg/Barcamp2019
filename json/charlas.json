@@ -47,7 +47,7 @@
       ]
     },
     {
-      "nombre": "Luis Contreras",
+      "nombre": "Luis Cesar Contreras",
       "Pais": "Dominican Republic",
       "abstract": "Algunas veces resulta díficil saber y seguir el state actual de tu SPA (Single Page Application). Usualmente, te ayudas del uso de un sin numero de flags (booleans) para tomar decisiones sobre el state de tu app. Con XState, puedes simplificar esta situación, usando Máquinas de Estado.",
       "charla": "Better state handling for React applications using XState",
@@ -63,6 +63,29 @@
           "icon": "fab fa-twitter",
           "name": "Twitter",
           "link": "http://twitter.com/devrasec"
+        }
+      ]
+    },
+    {
+      "nombre": "Luis Contreras",
+      "bio": "System Administrator in a mixed environment (Linux & Windows), with strong knowledge in databases. Adding automation tool like Ansible and monitoring tool like Nagios, Centreon and Op5. I enjoy to work in a dynamic environment where everyday there is something new to learn. I have a proven experience in System / Network Administration, and developing monitoring projects, including complex integrations and developing Nagios plugins in Python, PHP and PowerShell. My experience is based in Retail, Government, Health and IT Services industry. I'm currently holding the following certifications: MTA, LPI, NCA, NCP, NSE-1, NSE-2, NSE-3 ",
+      "Pais": "Dominican Republic",
+      "charla": "¿Como me converti en integrador?",
+      "abstract": "Esta charla es sobre he llevado la monitorizaciÃ³n al siguiente nivel, y empezar a realizar integraciones, utilizando lenguajes nativo de las herramientas de monitoreo como PHP y Perl. EstarÃ© mostrando algunos ejemplos interesantes.",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "Intermediate",
+      "tags": [],
+      "description": "",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/doluiscontreras"
+        },
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/luiscontrerasdo/"
         }
       ]
     },
@@ -493,35 +516,6 @@
       ]
     },
     {
-      "nombre": "Freddy Pena",
-      "charla": "Arquitectura reactiva (Vert.x): Diseñando API RESTful",
-      "abstract": "En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
-      "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "All",
-      "tags": [
-        "Java",
-        "Vert.x",
-        "Aplicaciones reactivas API", 
-        "REST", 
-        "RESTful", 
-        "HTTP"
-
-      ],
-      "description": "Vivimos en un entorno tremendamente cambiante donde los requerimientos de las aplicaciones han variado drásticamente en los últimos años, cada día queremos aplicaciones capaces de procesar más y más datos, con la misma cantidad de recursos. Los teléfonos inteligentes y el auge del loT incrementan el número de usuarios concurrentes, los cuales esperan que su tiempo de respuesta sean de milisegundos o microsegundos. Lo que ha demandado a que nuestras aplicaciones deban ser reactivas. Es evidente que debemos considerar usar nuevas tecnologías y nuevos paradigmas de programación para poder satisfacer los niveles necesarios, y así obtener aplicaciones reactivas. En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
-      "socials": [
-        {
-          "icon": "fas fa-link",
-          "name": "Link",
-          "link": "https://github.com/fredpena"
-        },
-        {
-          "icon": "fab fa-twitter",
-          "name": "Twitter",
-          "link": "http://twitter.com/fred_pena"
-        }
-      ]
-    },
-    {
       "nombre": "Lisibonny Beato",
       "charla": "Procesamiento de Lenguaje Natural con Python: un vistazo a la librería Pattern",
       "abstract": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) es un campo de la ciencias de la computación con gran auge, dada las importantes aplicaciones que tiene en la era de la Web 2.0. En esta charla veremos la librería Pattern de Python para abordar tareas de NLP mediante un enfoque muy práctico.",
@@ -532,6 +526,35 @@
         "Python"
       ],
       "description": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) se refiere a la manipulación del lenguaje mediante el uso de computadoras y el objetivo es encontrar mecanismos eficaces para la comunicación entre los humanos y las maquinas mediante el uso del lenguaje natural. El NLP es una confluencia de distintas disciplinas tales como las Ciencias de la Computación, la lingüística, la estadística, entre otras. Con la explosión que ha sucedido en los últimos años en la generación de datos textuales que son almacenados en medios electrónicos gracias a las Redes Sociales y a otras plataformas, esta área se ha convertido en una de mucho interés. Tareas como la traducción automática de textos, la clasificación de textos con distintos fines (filtrado de spam, categorización de documentos por tópicos, análisis de sentimientos, entre otros ), la recuperación de información, el entendimiento y generación de lenguaje natural (para el diseño de Bots, por ejemplo, la extracción de información y los correctores automáticos son solo algunos ejemplos de las aplicaciones que tiene este campo. Python, por su naturaleza, es un lenguaje poderosísimo para trabajar con texto escrito. En esta charla proponemos dar un vistazo a las principales tareas de NLP y específicamente mostrar de manera práctica y mediante la librería Pattern de Python como estas tareas pueden acometerse tanto para textos escritos en el idioma inglés como en el español, con los distintos recursos que esta ofrece."
+    },
+    {
+      "nombre": "Hector Ventura",
+      "formato": "Talk (~30-45 minutes",
+      "audienceLevel": "All",
+      "bio": "Más de 10 años de experiencia en diseño y arquitectura de software. \n - Más 10 años de experiencias en tecnologías Java.       -        Egresado de la escuela de informática en UASD       -        Profesor ITLA Santiago.       -        Miembro de: -        Fundación Código Libre Dominicana (FCLD)-        Comunidad Java Dominicano. Soy apasionado de la lectura y la tecnología. Fiel seguidor de la solución a los problemas. Amante del buen código y el café, y sobretodo la soledad.@hectorvent(telegram, twitter,  github, gmail",
+      "charla": "Quarkus, Supersónico y Subatómico Java Cloud Native Framework",
+      "abstract": "Sabemos que Java sigue presente en muchas áreas y empresas, pero con el auge de las tecnologías en las nubes, los contenedores y las funciones o serverless como se le conocen, Java ha perdido terreno.",
+      "description": ""
+    
+    },
+    {
+      "nombre": "Juan Jose Polanco Arias",
+      "bio": "",
+      "charla": "GDPR (General Data Protection Regulation)",
+      "abstract": "es una regulación de privacidad datos de la Union Europea que entro en vigencia el 25 de Mayo de 2018, cuyo objetivo darle poder al usuario de decidir si alguna aplicacion (web, movil, etc.) pueden recolectar sus datos y que tambien dicta el manejo adecuado que las companias tecnológicas que recolectan esos datos deben darle a los mismos.",
+      "description": "",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All"
+    },
+    {
+      "nombre": "Carlos Camacho",
+      "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
+      "charla": "",
+      "abstract": "Quarkus en conjunto de GraalVM han venido a darle vida nuevamente al mundo Java. En esta charla vamos explorar que nos ofrece Quarkus con todas sus extensiones, ya que este es un framework basado en MicroProfile y muchas librerías pioneras en el mundo Java como Hibernate, Apache Camel, RestEasy, Vertx, etc.",
+      "description": "",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All"
+      
     }
   ]
 }
