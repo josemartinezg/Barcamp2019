@@ -22,6 +22,26 @@
       ]
     },
     {
+      "nombre": "Gabriel Acosta Nuñez",
+      "charla": "Building App Xamirn forms Using Uno platform",
+      "formato": "Talk (~30-45 minutes)",
+      "audienceLevel": "All",
+      "abstract": "Using WebAssembly we will give the introduction yo uno platform, si that we can create microservices once we prepare a demo with xamarin forms, compile IOS, Android and web.",
+      "tags": [
+        "Programming",
+        "Xamarin",
+        "C#"
+      ],
+      "description": "What is quality? Where does quality begins? and better yet, why quality? even if these questions sound really basic and simple, the wrong answer to them have created long lasting negative impact over software projects for a long time.",
+      "socials": [
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/gacostadev"
+        }
+      ]
+    },
+    {
       "nombre": "Rafael Miguel Dorville Collado",
       "charla": "Análisis de Redes Sociales",
       "abstract": "Hoy en día vivimos en un mundo en que los individuos, las instituciones y los grupos están interconectados. Los patrones de conexión entre elementos forman un “espacio social” que se aprecia en múltiples contextos,  pudiendo estudiar la influencia de un individuo dentro de su circulo.",
@@ -257,9 +277,10 @@
       "audienceLevel": "Intermediate",
       "tags": [
         "JavaScript",
-        "LoopbackJS",
-        "Framework",
-        "Express"
+        "Loopback",
+        "node.js",
+        "Express",
+        "REST API"
       ],
       "description": "¿Eres uno de cientos de miles de desarrolladores que entienden que han invertido demasiado tiempo escribiendo código repetitivo para tus REST APIs? Descuida, que en esta desconferencia aprenderás cómo el poderoso framework LoopBack 4 te ayudará a mejorar tu productividad y te asegurará una construcción robusta de tus API’s REST en cuestión de minutos, haciéndose cargo de los requerimientos técnicos fundamentales, y dejándote a ti más tiempo para definir los requerimientos funcionales y las reglas de negocio. LoopBack 4 es un framework Node.js basado en Express, de fuente abierta, y altamente extensible, basado en Express, desarrollado por StrongLoop de IBM, que te permite crear rápidamente APIs y microservicios, compuesto de sistemas de backend, como bases de datos y servicios SOAP o REST. Está orientado para desarrolladores de API’s, facilita el desarrollo en equipo, y puede ser utilizado para construir frameworks, plataformas, librerías, y ser integrado con bases de datos, servicios web y otras plataformas por vía de conectores. Loopback permite conectarse a varias fuentes de datos, y relacionarlas entre sí, permitiendo mantener la integridad de los datos, y de obtener todos los datos relevantes con cada consulta, sin importar las distintas fuentes consultadas. También posee un explorador de los distintos servicios, que permiten hacer consultas en tiempo real.",
       "socials": []
@@ -518,7 +539,7 @@
     {
       "nombre": "Lisibonny Beato",
       "charla": "Procesamiento de Lenguaje Natural con Python: un vistazo a la librería Pattern",
-      "abstract": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) es un campo de la ciencias de la computación con gran auge, dada las importantes aplicaciones que tiene en la era de la Web 2.0. En esta charla veremos la librería Pattern de Python para abordar tareas de NLP mediante un enfoque muy práctico.",
+      "abstract": "El Procesamiento de Lenguaje Natural (NLP, por sus siglas en inglés) es un campo de la ciencias de la computación con gran auge, dada las importantes aplicaciones que tiene en la era de la Web 2.0. En esta charla/taller veremos la librería Pattern de Python para abordar tareas de NLP mediante un enfoque muy práctico, donde los participantes tendrán la oportunidad de interactuar con la librería.",
       "formato": "Workshop (> 60 minutes)",
       "audienceLevel": "Intermediate",
       "tags": [
@@ -547,14 +568,79 @@
       "audienceLevel": "All"
     },
     {
+      "nombre": "Freddy Peña",
+      "bio": "- Java Developer y IT Manager, con más 10 años de experiencia en desarrollo bajo tecnología Java \n - Más de 4 años de experiencia administrando e implementando proyecto con SAP Business One \n - Amante del Open Source \n- Graduado de informática, con un Máster en Ingeniería Web. \n- Profesor en PUCMM y el TEP \n- Mimbro de la comunidad Código Libre Dominicana",
+      "charla": "Arquitectura reactiva (Vert.x): Diseñando API RESTful",
+      "abstract": "En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
+      "description": "Vivimos en un entorno tremendamente cambiante donde los requerimientos de las aplicaciones han variado drásticamente en los últimos años, cada día queremos aplicaciones capaces de procesar más y más datos, con la misma cantidad de recursos. Los teléfonos inteligentes y el auge del loT incrementan el número de usuarios concurrentes, los cuales esperan que su tiempo de respuesta sean de milisegundos o microsegundos. Lo que ha demandado a que nuestras aplicaciones deban ser reactivas. Es evidente que debemos considerar usar nuevas tecnologías y nuevos paradigmas de programación para poder satisfacer los niveles necesarios, y así obtener aplicaciones reactivas. En esta desconferencia vamos a conocer el concepto de aplicaciones reactivas, y se mostrara como diseñar y consumir un API RESTful a través del protocolo HTTP, utilizando Vert.x basándose en arquitectura reactiva.",
+      "formato": "Talk (~30-45 minutes)",
+      "tags": [
+        "Java",
+        "Vert.x",
+        "Aplicaciones Reactivas API",
+        "REST",
+        "RESTful",
+        "HTTP"
+      ],
+      "audienceLevel": "All",
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/fredpena"
+          
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/fred_pena"
+        }
+      ]
+    },
+    {
       "nombre": "Carlos Camacho",
       "bio": "Más de 11 años de experiencia en desarrollo de software bajo la plataforma Java, implementación de proyectos de código libre y desarrollo e integración de proyectos embedidos en Arduino y Raspberry Pie. Graduado de Ingeniería Telemática, Master en Tecnología Educativa. Profesor de las carreras de Ingeniería de Sistemas y Computación e Ingeniería Telemática de la PUCMM. Actualmente es el Director de la escuela de Ingeniería en Computación y Telecomunicaciones Campus Santiago PUCMM. Miembro de la Fundación Código Libre y Cofundador de Java User Group, Java Dominicano.",
       "charla": "",
       "abstract": "",
       "description": "",
       "formato": "Talk (~30-45 minutes)",
-      "audienceLevel": "All"
-      
+      "audienceLevel": "All",
+      "socials": [
+        {
+          "icon": "fab fa-github-alt",
+          "name": "Github",
+          "link": "https://github.com/vacax"
+          
+        }
+      ]
+    },
+    {
+      "nombre": "Fidelia Matos",
+      "bio": "8+ años como desarrolladora de software. Facilitadora y directora de operaciones de Code4Ladies. Miembro activo de Mujeres TICs RD. Voluntaria de GDG Santo Domingo. Ganadora del premio de mención honorífica en el Startup Weekend Fintech 2019. Graduada con honores de Técnico Profesional en Informática.",
+      "charla": "Paquete UTL_FILE: Manejando Archivos de Textos con PL/SQL",
+      "abstract": "Imaginemos, tenemos que crear un proceso que consulte una BD y escriba la info en un archivo de texto; o que lea un archivo para insertar la data en la BD. La mayoría de los programadores lo codifican con un lenguaje de backend, pero ¿y si te digo es más fácil y rápido codificarlo desde la misma BD?",
+      "description": "La mayoría de los programadores proceden a utilizar un lenguaje de backend para crear un proceso o aplicación que se conecte a una base de datos (en este caso, Oracle), la consulte y escriba la información en un archivo de texto o que lea un archivo para insertar la data en la base de datos; sin embargo, es posible hacer todo esto desde la misma base de datos, creando un proceso PL/SQL, lo cual resulta más fácil y rápido para el desarrollador, evitando la necesidad de tener un proceso o aplicación corriendo adicional a la base de datos. Esto también es una solución para personas del área de TI que no poseen conocimientos de algún lenguaje de backend, pero sí conocen sobre instrucciones PL/SQL y requieren desarrollar una funcionalidad como esta.",
+      "formato": "Talk (~30-45 minutes)",
+      "tags": [
+        "Oracle",
+        "PL/SQL",
+        "UTL_FILE",
+        "Database"
+      ],
+      "audienceLevel": "All",
+      "socials": [
+        {
+          "icon": "fab fa-linkedin",
+          "name": "Linkedin",
+          "link": "https://www.linkedin.com/in/fideliamatos"
+          
+        },
+        {
+          "icon": "fab fa-twitter",
+          "name": "Twitter",
+          "link": "http://twitter.com/fideliamatos"
+        }
+      ]
     }
   ]
 }
