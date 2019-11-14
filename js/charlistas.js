@@ -32,7 +32,7 @@ function createCharlistaCard(charlistaJson, index) {
 
 
     var speakerHtml = "<div class=\"col-xl-3 col-lg-4 col-md-6 col-sm-6 col-xs-8\">" +
-        "<div class=\"charlista\" style='background-image:url(\../img/charlistas/" + charlistaJson.imagen + ");'>" +
+        "<div class=\"charlista\" style='background-image:url(" + "../img/charlistas/" + + charlistaJson.imagen + ");'>" +
         "<div class='info'>" +
         "<h5>" + charlistaJson.nombre + "</h5>" +
         "<div class='social'>";
